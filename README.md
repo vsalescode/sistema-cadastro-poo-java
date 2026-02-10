@@ -91,7 +91,6 @@ java Main
 
 ## 🔧 Possíveis melhorias futuras
 
--   Menu interativo com `Scanner`\
 -   Persistência em arquivo\
 -   Validação real de CPF\
 -   Interface gráfica\
@@ -100,5 +99,5 @@ java Main
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Autor
-
+@vsalescode
 Projeto criado para fins de estudo e evolução na linguagem Java.
